@@ -1,0 +1,1 @@
+FUCK.......		fatal: pathspec 'document.txt' did not match any files
